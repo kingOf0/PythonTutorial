@@ -18,3 +18,10 @@ y = x + 2  # y'nin değeri 4 olacaktır. Çünkü x'in değeri 2 olduğunda 2 + 
 # türleri, veri üzerinde işlem yapmamızı kolaylaştırır. Veriler ile bir işlem yapılırken genellikle aynı tür olmaları
 # gerekir. Örneğin karekökünü almak sayılarda kullanılan bir işlev iken bir metnin karekökünü almayı beklemeyiz.
 
+# Veri Türü: Doğru / Yanlış
+# 'True' (Doğru) veya 'False' (Yanlış) keywordleri (anahtar kelimeleri) ile ifade edilirler.
+# Dikkat! True ve False büyük-küçük harf'e duyarlıdır. Yani true ya da false şeklinde bir kullanım yoktur.
+# Aşağıda 'z' adında bir değişken oluşturduk ve True yani Doğru değerine atadık.
+z = True
+
+
