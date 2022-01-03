@@ -14,4 +14,7 @@ x = 5
 # Bu toplama sayılarda üstüne ekleme, metinlerde ardına ekleme şeklindedir.
 y = x + 2  # y'nin değeri 4 olacaktır. Çünkü x'in değeri 2 olduğunda 2 + 2 = 4 dür.
 
+# Veri Türleri Her bir verinin bir türü vardır. Örneğin: Tam sayı, ondalıklı sayı, doğru / yanlış, metin Veri
+# türleri, veri üzerinde işlem yapmamızı kolaylaştırır. Veriler ile bir işlem yapılırken genellikle aynı tür olmaları
+# gerekir. Örneğin karekökünü almak sayılarda kullanılan bir işlev iken bir metnin karekökünü almayı beklemeyiz.
 
