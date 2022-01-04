@@ -22,25 +22,26 @@ y = x + 2  # y'nin değeri 4 olacaktır. Çünkü x'in değeri 2 olduğunda 2 + 
 # Bazı aritmetik operatörler aşağıda verilmiştir:
 #
 # Addition | Toplama
-#  todo
+#  İki sayısal değeri toplar.
 #  10 + 1 => 11
 #
 # Substraction | Çıkarma
-#  todo
+#  İki sayısal değeri çıkarır.
 #  10 - 2 => 8
 #
 # Multiplication | Çarpma
-#  todo
+#  İki sayısal değeri çarpar.
 #  10 * 3 => 30
 #
 # Division | Bölüm
-#  todo
-#  10 / 2 => 5
-#  12 / 5 => 2
+#  İki sayısal değeri böler. Dikkat! Bölüm değeri her zaman float (kesirli sayı) türündedir!
+#  10 / 2 => 5.0
+#  12 / 5 => 2.4
 #
 # Integer Division  | Tam Sayı Bölümü
-#  todo
-#  10 // 3 = 3
+#  İki sayısal değeri böler. Dikkat! Bölüm değeri her zaman integer (tam sayı) türündedir!
+#  10 / 2 => 5
+#  12 // 5 => 2
 #
 # Modulus | Modül
 #  Matematikteki 'kalan bulma' operatörüdür.
