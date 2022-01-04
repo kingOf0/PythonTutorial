@@ -6,7 +6,7 @@
 
 # Değişkenler
 #  Bir veriyi hafızada depolamak için değişkenleri kullanırız. Değişken isimlendirmede bir kaç kural
-#  vardır. Örneğin sayı veya özel işaretler ile başlayamaz veya pythondaki bazı özel anlamlara gelen kelimelerden
+#  vardır. Örneğin bir değişken ismi sayı veya özel işaretler ile başlayamaz veya pythondaki bazı özel anlamlara gelen kelimelerden
 #  oluşamaz.
 
 # Değişken Tanımlamak:
