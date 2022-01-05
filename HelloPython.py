@@ -85,3 +85,13 @@ z = True
 isim = "ibrahim"
 nick = 'kingOf0'
 harf = 'c'
+
+
+# Fonksiyonlar
+# Bir işlevi yapmak için tanımladığımız adımlar bütününe fonksiyon denir. Fonksiyonlar
+def myFunction():
+    pass
+# şeklinde tanımlanır. Buradaki 'def' keyword'ü (anahtar kelimesi) bir fonksiyon tanımlayacağımızı belirtirken
+# 'myFunction' ise bu fonksiyonun ismidir.
+
+
