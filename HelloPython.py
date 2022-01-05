@@ -109,6 +109,6 @@ def karesiniAl(sayi):
 # konsola çıkmasını istediğimiz değerleri gireriz. Eğer birden fazla değer girecek isek bunları ',' ile ayırabiliriz
 # çüknü print fonksiyonu birden fazla parametre alabilen bir fonksiyondur.
 print("Selam!")  # => konsola 'Selam!' yazacaktır.
-print("Selam", "ben", "ibrahim") # => konsola 'Selam ben ibrahim' yazacaktır çünkü print fonksiyonu varsayılan olarak
+print("Selam", "ben", "ibrahim")  # => konsola 'Selam ben ibrahim' yazacaktır çünkü print fonksiyonu varsayılan olarak
 # parametreler arasını ' ' (boşluk) ile tamamlar.
 
