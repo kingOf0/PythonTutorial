@@ -95,3 +95,14 @@ def myFunction():
 # 'myFunction' ise bu fonksiyonun ismidir. fonksiyonların yapacağı işlevleri 'bir tab içeri' yazarız. Şuan
 # fonksiyonumuzun herhangi bir işlev yapmasını istemediğimizden 'pass' anahtar kelimesini kullandık.
 
+# Fonksiyon Parametreleri Fonksiyonlarımızın çalışması için onlara bir değer vermemiz gerekebilir. Örneğin bir
+# sayının karesini alacak fonksiyona, karesini almasını istediğimiz sayıyı vermemiz gerekecektir. Fonksiyon
+# parametreleri, fonksiyonun isminden sonra açtığımız parantezin içine yazılır. Eğer ki birden fazla parametre alacak
+# ise, bunları ',' ile ayırmamız gerekir.
+def karesiniAl(sayi):
+    pass
+
+# Dikkat! Fonksiyonumuza 'pass' yazdığımız için herhangi bir şey yapmayacaktır.
+
+
+
