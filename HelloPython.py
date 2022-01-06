@@ -101,7 +101,7 @@ def myFunction():
 # ise, bunları ',' ile ayırmamız gerekir.
 def karesiniAl(sayi):
     pass
-# Dikkat! Fonksiyonumuza 'pass' yazdığımız için herhangi bir şey yapmayacaktır.
+# Dikkat! Fonksiyonumuza 'pass' yazdığımız için şimdilik herhangi bir şey yapmayacaktır.
 
 
 # Print fonksiyonu Python'ın içinde önceden tanımlanmış fonksiyonlar bulunmaktadır. 'print' fonksioyonu da en temel
@@ -110,5 +110,9 @@ def karesiniAl(sayi):
 # çüknü print fonksiyonu birden fazla parametre alabilen bir fonksiyondur.
 print("Selam!")  # => konsola 'Selam!' yazacaktır.
 print("Selam", "ben", "ibrahim")  # => konsola 'Selam ben ibrahim' yazacaktır çünkü print fonksiyonu varsayılan olarak
-# parametreler arasını ' ' (boşluk) ile tamamlar.
+# parametreler arasını ' ' (boşluk) ile tamamlar. Buna 'seperator' (ayırıcı) diyoruz. Print fonksiyonun seperator'unu
+# değiştirmek için 'sep' adında bir parametre daha tanımlayabiliriz. Örneğin parametrelerin ', ' ile doldurulmasını
+# istiyorsak 'sep=", "' yazabiliriz.
+print("elma", "armut", "vişne", "kabak", sep=', ')  # => Konsola 'elma, armut, vişne, kabak' yazacaktır.
+
 
