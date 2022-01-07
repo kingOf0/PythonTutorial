@@ -124,5 +124,6 @@ print("Selam", "ben", "ibrahim")  # => konsola 'Selam ben ibrahim' yazacaktır �
 # değiştirmek için 'sep' adında bir parametre daha tanımlayabiliriz. Örneğin parametrelerin ', ' ile doldurulmasını
 # istiyorsak 'sep=", "' yazabiliriz.
 print("elma", "armut", "vişne", "kabak", sep=', ')  # => Konsola 'elma, armut, vişne, kabak' yazacaktır.
+# Araştırma Önerisi: print fonksiyonun 'end' parametresini araştırınız.
 
 
