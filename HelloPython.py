@@ -137,23 +137,23 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 # todo: açıklama ekle
 #
 # Equality | Eşitlik
-# x == y
-# x'in hafızadaki adresi ile y'nin hafızadaki adresi aynı ise True diğer tüm durumlarda False değerini verir.
+#  x == y
+#  x'in hafızadaki adresi ile y'nin hafızadaki adresi aynı ise True diğer tüm durumlarda False değerini verir.
 #
 # And | Ve
-# x and y
-# x ve y bir boolean ifade eden iki değişken olmak üzere
-# İki Boolean değeri de True ise, True diğer tüm durumlarda False değerini verir.
+#  x and y
+#  x ve y bir boolean ifade eden iki değişken olmak üzere
+#  İki Boolean değeri de True ise, True diğer tüm durumlarda False değerini verir.
 #
 # Or | Veya
-# x or y
-# x ve y bir boolean ifade eden iki değişken olmak üzere
-# İki Boolean değerinden herhangi biri True ise, True diğer tüm durumlarda False değerini verir.
+#  x or y
+#  x ve y bir boolean ifade eden iki değişken olmak üzere
+#  İki Boolean değerinden herhangi biri True ise, True diğer tüm durumlarda False değerini verir.
 #
 # Not | Değil
-# !x
-# x bir boolean ifade eden bir değişken olmak üzere
-# X True ise, False; X False ise True değerini verir. Yani x'in değerinin tersini döndürecektir.
+#  !x
+#  x bir boolean ifade eden bir değişken olmak üzere
+#  X True ise, False; X False ise True değerini verir. Yani x'in değerinin tersini döndürecektir.
 
 # If Statement | Koşul İfadesi
 # todo: açıklama ekle
