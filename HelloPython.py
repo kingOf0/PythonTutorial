@@ -161,3 +161,14 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 # else:
 #   .....
 #
+# Şeklinde bir kullanımına sahip olan koşul ifadesi parantezlerinin içine aldığı Boolean değeri True yani doğru
+# olduğunda bir tab içindeki komutları çalıştıracak. Eğer False yani yanlış ise else bloğunun bir tab altındaki
+# komutları çalıştıracak.
+#
+# Aşağıdaki örnekte sayı sıfır'a eşitse konsola "sayı sıfır." yazdırıyoruz. Değilse "Sayı sıfır değil." yazdırıyoruz.
+def sifirMi(sayi):
+    if sayi == 0:
+        print("Sayı sıfır.")
+    else:
+        print("Sayı sıfır değil.")
+
