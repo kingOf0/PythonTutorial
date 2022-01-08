@@ -156,7 +156,7 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 #  X True ise, False; X False ise True değerini verir. Yani x'in değerinin tersini döndürecektir.
 
 # If Statement | Koşul İfadesi
-# todo: açıklama ekle
+# Bir kod dizisinin sadece belli bir durum gerçeklendiğinde çalıştırılması istendiğinde if statement kullanılır.
 #
 # if (Boolean):
 #   ....
@@ -167,7 +167,8 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 # olduğunda bir tab içindeki komutları çalıştıracak. Eğer False yani yanlış ise else bloğunun bir tab altındaki
 # komutları çalıştıracak.
 #
-# Aşağıdaki örnekte sayı sıfır'a eşitse konsola "sayı sıfır." yazdırıyoruz. Değilse "Sayı sıfır değil." yazdırıyoruz.
+# Aşağıdaki örnekte sayı değişkeninin değeri sıfır'a eşitse konsola "sayı sıfır." yazdırıyoruz. Değilse "Sayı sıfır
+# değil." yazdırıyoruz.
 def sifirMi(sayi):
     if sayi == 0:
         print("Sayı sıfır.")
