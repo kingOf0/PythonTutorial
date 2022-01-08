@@ -4,10 +4,9 @@
   Bu yorum satırları genellikle dökümantasyonlarda kullanılır.
 """
 
-# Değişkenler
-#  Bir veriyi hafızada depolamak için değişkenleri kullanırız. Değişken isimlendirmede bir kaç kural
-#  vardır. Örneğin bir değişken ismi sayı veya özel işaretler ile başlayamaz veya pythondaki bazı özel anlamlara gelen kelimelerden
-#  oluşamaz.
+# Değişkenler Bir veriyi hafızada depolamak için değişkenleri kullanırız. Değişken isimlendirmede bir kaç kural
+# vardır. Örneğin bir değişken ismi sayı veya özel işaretler ile başlayamaz veya pythondaki bazı özel anlamlara gelen
+# kelimelerden oluşamaz.
 
 # Değişken Tanımlamak:
 #  'değişken_ismi = değer' şeklinde kullanılır. Buna 'assign' veya 'assignment' yani 'atama' denir.
@@ -91,6 +90,8 @@ harf = 'c'
 #  Bir işlevi yapmak için tanımladığımız adımlar bütününe fonksiyon denir. Fonksiyonlar
 def myFunction():
     pass
+
+
 # şeklinde tanımlanır. Buradaki 'def' keyword'ü (anahtar kelimesi) bir fonksiyon tanımlayacağımızı belirtirken
 # 'myFunction' ise bu fonksiyonun ismidir. fonksiyonların yapacağı işlevleri 'bir tab içeri' yazarız. Şuan
 # fonksiyonumuzun herhangi bir işlev yapmasını istemediğimizden 'pass' anahtar kelimesini kullandık.
@@ -101,6 +102,8 @@ def myFunction():
 # ise, bunları ',' ile ayırmamız gerekir.
 def karesiniAl(sayi):
     pass
+
+
 # Dikkat! Fonksiyonumuza 'pass' yazdığımız için şimdilik herhangi bir şey yapmayacaktır.
 
 
@@ -114,6 +117,17 @@ print("Selam", "ben", "ibrahim")  # => konsola 'Selam ben ibrahim' yazacaktır �
 # değiştirmek için 'sep' adında bir parametre daha tanımlayabiliriz. Örneğin parametrelerin ', ' ile doldurulmasını
 # istiyorsak 'sep=", "' yazabiliriz.
 print("elma", "armut", "vişne", "kabak", sep=', ')  # => Konsola 'elma, armut, vişne, kabak' yazacaktır.
+
+
 # Araştırma Önerisi: print fonksiyonun 'end' parametresini araştırınız.
 
+# Return Deyimi Fonksiyonlar kara kutu gibi çalışır. Girdi alır işlem yapar ve çıktı üretirler. Bu çıktının başka
+# bir fonksiyon ve yordamlarda kullanılabilmesi için return deyimini kullanırız.
+# Yukarıda tanımladığımız karesiniAl() fonksiyonunu return deyimi ile tamamlayalım.
 
+def karesiniAl(y):
+    return y * y
+
+
+# Print fonksiyonunu kullanarak karesiniAl() fonksiyonumuzun çıktısını ekrana yazdıralım.
+print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
