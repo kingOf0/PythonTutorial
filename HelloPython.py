@@ -154,3 +154,10 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 # x bir boolean ifade eden bir değişken olmak üzere
 # X True ise, False; X False ise True değerini verir. Yani x'in değerinin tersini döndürecektir.
 
+# If Statement | Koşul İfadesi
+#
+# if (Boolean):
+#   ....
+# else:
+#   .....
+#
