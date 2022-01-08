@@ -100,9 +100,9 @@ def myFunction():
 # sayının karesini alacak fonksiyona, karesini almasını istediğimiz sayıyı vermemiz gerekecektir. Fonksiyon
 # parametreleri, fonksiyonun isminden sonra açtığımız parantezin içine yazılır. Eğer ki birden fazla parametre alacak
 # ise, bunları ',' ile ayırmamız gerekir.
+
 def karesiniAl(sayi):
     pass
-
 
 # Dikkat! Fonksiyonumuza 'pass' yazdığımız için şimdilik herhangi bir şey yapmayacaktır.
 
