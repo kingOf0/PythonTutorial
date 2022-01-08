@@ -134,6 +134,7 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 
 
 # Logic Operators | Mantıksal Operatörler
+# todo: açıklama ekle
 #
 # Equality | Eşitlik
 # x == y
@@ -155,6 +156,7 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 # X True ise, False; X False ise True değerini verir. Yani x'in değerinin tersini döndürecektir.
 
 # If Statement | Koşul İfadesi
+# todo: açıklama ekle
 #
 # if (Boolean):
 #   ....
