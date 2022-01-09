@@ -143,7 +143,8 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 
 
 # Logic Operators | Mantıksal Operatörler
-# todo: açıklama ekle
+# Değerleri kontrol etmek için kullanılır. Mesela '5==7' tarzında yanlış bir şey yazarsak 'False' geri döndürülecektir. Çünkü 5 sayısı 7'e eşit değildir.
+# Ama '3==3' tarzında doğru bir şey yazarsak 'True' geri döndürülür. Aşağıdakı operatörleri gördükten sonra konu daha anlaşılır gelecektir. 
 #
 # Equality | Eşitlik
 #  x == y
