@@ -109,13 +109,12 @@ def karesiniAl(sayi):
 # Örnek fonksiyon:
 def topla(sayi1,sayi2):
     cevap = sayi1 + sayi2
-    return cevap
-# Burada olan return fonksiyondan hangi değeri döndürdüğümüzü bildiriyor. 
+    print(cevap)
 # Şimdi ise bu fonksiyon için örnek kullanım göstermeliyiz:
-print(topla(5,6))
+topla(5,6)
 # Burada olan '5,6' sayıları fonksiyonda sırayla istenen 'sayi1,sayi2'-dir.
 # Bunun sonucunda '11' sayısını yazdırmış olacağız.
-# Burada print() fonksiyonunu kullanarak fonksiyondan geri döndürülen değeri yazdırabiliriz. Tabii ki, geri döndürülen değeri bir değişkene de verebiliriz.
+# Burada print() fonksiyonunu kullanarak '11' yazdırmış oluyoruz. 
 
 # Print fonksiyonu Python'ın içinde önceden tanımlanmış fonksiyonlar bulunmaktadır. 'print' fonksioyonu da en temel
 # fonksiyonlardan birisidir. Print fonksiyonu, konsola çıktı vermemizi sağlar. Print fonksiyonuna paremetre olarak,
