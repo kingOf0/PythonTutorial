@@ -146,7 +146,7 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 # Boole Cebirine dayanan mantıksal ifadelerdir.
 # Araştırma Konusu: Mantıksal Kapılar
 #
-# Kapılar Bilgisayarlar binary yani ikili sistem ile çalışırlar.
+# Bilgisayarlar binary yani ikili sistem ile çalışırlar.
 # Araştırma Konusu: Bilgisayarlar neden binary sistemikullanır?
 #
 # Boolean tipinde olan True değeri mantıktaki 1'e eşit iken False, 0'a eşittir.
