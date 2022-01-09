@@ -143,11 +143,19 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 
 
 # Logic Operators | Mantıksal Operatörler
-# Değerleri kontrol etmek için kullanılır. Mesela '5==7' tarzında yanlış bir şey yazarsak 'False' geri döndürülecektir. Çünkü 5 sayısı 7'e eşit değildir.
-# Ama '3==3' tarzında doğru bir şey yazarsak 'True' geri döndürülür. Aşağıdakı operatörleri gördükten sonra konu daha anlaşılır gelecektir. 
+# Boole Cebirine dayanan mantıksal ifadelerdir.
+# Araştırma Konusu: Mantıksal Kapılar
+#
+# Kapılar Bilgisayarlar binary yani ikili sistem ile çalışırlar.
+# Araştırma Konusu: Bilgisayarlar neden binary sistemikullanır?
+#
+# Boolean tipinde olan True değeri mantıktaki 1'e eşit iken False, 0'a eşittir.
+# Araştırma Konusu: Üçüncü bir durum var mıdır? bkz: Kuantum Bilgisayarlar
+#
+# Aşağıdakı bazı mantıksal operatörler verilmiştir
 #
 # Equality | Eşitlik
-#  x == y
+#  x == y"
 #  x'in hafızadaki adresi ile y'nin hafızadaki adresi aynı ise True diğer tüm durumlarda False değerini verir.
 #
 # And | Ve
