@@ -106,6 +106,15 @@ def karesiniAl(sayi):
 
 # Dikkat! Fonksiyonumuza 'pass' yazdığımız için şimdilik herhangi bir şey yapmayacaktır.
 
+# Örnek fonksiyon:
+def topla(sayi1,sayi2):
+    cevap = sayi1 + sayi2
+    print(cevap)
+# Şimdi ise bu fonksiyon için örnek kullanım göstermeliyiz:
+topla(5,6)
+# Burada olan '5,6' sayıları fonksiyonda sırayla istenen 'sayi1,sayi2'-dir.
+# Bunun sonucunda '11' sayısını yazdırmış olacağız.
+# Burada print() fonksiyonunu kullanarak '11' yazdırmış oluyoruz. 
 
 # Print fonksiyonu Python'ın içinde önceden tanımlanmış fonksiyonlar bulunmaktadır. 'print' fonksioyonu da en temel
 # fonksiyonlardan birisidir. Print fonksiyonu, konsola çıktı vermemizi sağlar. Print fonksiyonuna paremetre olarak,
@@ -134,7 +143,8 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 
 
 # Logic Operators | Mantıksal Operatörler
-# todo: açıklama ekle
+# Değerleri kontrol etmek için kullanılır. Mesela '5==7' tarzında yanlış bir şey yazarsak 'False' geri döndürülecektir. Çünkü 5 sayısı 7'e eşit değildir.
+# Ama '3==3' tarzında doğru bir şey yazarsak 'True' geri döndürülür. Aşağıdakı operatörleri gördükten sonra konu daha anlaşılır gelecektir. 
 #
 # Equality | Eşitlik
 #  x == y
