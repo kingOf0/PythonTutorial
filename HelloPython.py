@@ -193,3 +193,24 @@ def sifirMi(sayi):
     else:
         print("Sayı sıfır değil.")
 
+
+# Bazı Ön tanımlı fonksiyonlar
+# //todo
+#
+# str
+# //todo
+#
+#
+# int
+# //todo
+#
+#
+# float
+# //todo
+#
+#
+# bool
+# //todo
+#
+#
+#
