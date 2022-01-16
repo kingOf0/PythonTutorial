@@ -1,19 +1,38 @@
 # Sözlük
+# Bu kanalda yaygın olarak kullanılan terimlerin lokalizasyonu //todo
+#
+#
+# Dil ve Kod Seviyesi
+# Bilgisayarlarda programlama dillerinin bir seviyesi vardır. Bu Seviye, dilin donanımdan ne kadar uzak olduğunu
+# belirtir. Örneğin python gibi insan konuşma diline daha yatkın ve donanımdan uzak olan dillere "Yüksek Seviyeli
+# Dil" denir. C, C++ gibi dillere ise donanıma daha yakın olduğundan "Düşük Seviyeli Dil" denir.
+#
+#
+# Opcode
+# Donanımın anlayacağı seviyede düşük bir kod.
 # todo
 #
 #
-# interpreter
+# Bytecode
+# Belli bir derecede işlem görerek seviyesi donanım'a yaklaştırılan kod. Derlenmiş kod.
+#
+#
+# Compiler | Derleyici
 # todo
 #
-# shell | Kabuk
+# Interpreter | Yorumlayıcı
+#
+#
+# Shell | Kabuk
 # todo
 #
-# repl
-# todo
 #
-# compiler
+# Repl | Read Eval Print Loop
 # todo
+# Oku -> Çalıştır -> Yazdır
+#     t e k r a r l a
 #
-# script
+#
+# Script | Betik? todo
 # todo
 #
