@@ -58,19 +58,31 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 # //todo
 #
 # str
-# //todo
-#
+# Paremetre olarak bir obje kabul eder.
+# Bu objenin __str__ methodunu çağırır ve döndürür.
+# //todo example
 #
 # int
-# //todo
+# Parametre olarak bir string kabul eder.
+# Bu string'i bir tam sayıya çevirmeye çalışır.
+# Eğer ki girilen string bir sayıya çevirilemiyorsa bir hata ile karşılaşılır. (ValueError)
 #
 #
 # float
-# //todo
+# Parametre olarak bir string kabul eder.
+# Bu string'i bir kayan noktalı sayıya çevirmeye çalışır. (Ondalıklı Sayı, Rasyonel Sayı)
+# Eğer ki girilen string bir sayıya çevirilemiyorsa bir hata ile karşılaşılır. (ValueError)
 #
 #
 # bool
-# //todo
+# Tek bir parametre kabul eder.
+# Girilen parametrenin durumuna göre True veya False döndürür.
 #
+# * Girilen paremetre bir sayı ise;
+#  Sayının değeri 1 ise True, diğer tüm durumlarda False
 #
+# * Girilen parametre bir string ise;
+#  String boş ("") ise False, diğer tüm durumlarda True
+#
+# * todo
 #
