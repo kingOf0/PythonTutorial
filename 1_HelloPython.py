@@ -5,3 +5,7 @@
 """
 
 # Python dosya formatı '.py' dir.
+
+
+# Sözlük
+# todo
