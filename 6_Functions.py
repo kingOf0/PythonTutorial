@@ -85,4 +85,3 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 #  String boş ("") ise False, diğer tüm durumlarda True
 #
 # * todo
-#
