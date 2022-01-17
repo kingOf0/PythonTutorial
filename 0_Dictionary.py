@@ -28,7 +28,8 @@
 #
 #
 # Repl | Read Eval Print Loop
-# todo
+# Program kodunun okunması, çalıştırılması, oluşan çıktının yazılması durumunun tekrar edilmesidir.
+#
 # Oku -> Çalıştır -> Yazdır
 #     t e k r a r l a
 #
