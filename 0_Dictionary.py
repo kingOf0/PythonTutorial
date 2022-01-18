@@ -18,7 +18,7 @@
 #
 #
 # Compiler | Derleyici
-# todo
+# Kodun "seviyesini" donanımın anlayacağı seviyeye yaklaştırır. //todo
 #
 # Interpreter | Yorumlayıcı
 # Kodu satır satır okuyarak çalıştırır. Kodu kendince "yorumlar". //todo
