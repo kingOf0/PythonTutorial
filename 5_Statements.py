@@ -1,4 +1,6 @@
-
+# Statements | İfadeler
+# todo
+#
 # If Statement | Koşul İfadesi
 # Bir kod dizisinin sadece belli bir durum gerçeklendiğinde çalıştırılması istendiğinde if statement kullanılır.
 #
