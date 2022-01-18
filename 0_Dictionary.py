@@ -21,7 +21,7 @@
 # todo
 #
 # Interpreter | Yorumlayıcı
-#
+# Kodu satır satır okuyarak çalıştırır. Kodu kendince "yorumlar". //todo
 #
 # Shell | Kabuk
 # todo
