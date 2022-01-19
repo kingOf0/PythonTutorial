@@ -20,3 +20,11 @@ def sifirMi(sayi):
         print("Sayı sıfır.")
     else:
         print("Sayı sıfır değil.")
+# Bundan başka eğer değilse gibi kullanılan 'elif' vardır. Örnek kullanım için:
+def yasKontrol(yas):
+    if yas > 18:
+        print("Yaşın 18'ten büyük")
+    elif yas == 18:
+        print("18 yaşındasın")
+    else:
+        print("18 yaşından küçüksün")
