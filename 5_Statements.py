@@ -20,11 +20,19 @@ def sifirMi(sayi):
         print("Sayı sıfır.")
     else:
         print("Sayı sıfır değil.")
-# Bundan başka eğer değilse gibi kullanılan 'elif' vardır. Örnek kullanım için:
+
+
+# Elif Statement
+# Birden önceki statementların hepsinin False olduğu durumda kendi içindeki boolean değeri True ise içindeki kodu
+# çalıştırır.
+#
+# Program kendinden sonraki diğer statementları kontrol etmez. ardı ardına eklenen if, elif ve else
+# statementlardan herhangi birisi çalıştğında program sonraki statementları kontrol etmez.
+#
 def yasKontrol(yas):
     if yas > 18:
         print("Yaşın 18'ten büyük")
-    elif yas == 18:
+    elif yas == 18:  # yas < 18 && yas == 18 durumudur.
         print("18 yaşındasın")
-    else:
+    else:  # yas < 18 && yas != 18 durumudur.
         print("18 yaşından küçüksün")
