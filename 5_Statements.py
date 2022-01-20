@@ -23,7 +23,7 @@ def sifirMi(sayi):
 
 
 # Elif Statement
-# Birden önceki statementların hepsinin False olduğu durumda kendi içindeki boolean değeri True ise içindeki kodu
+# Kendisinden önceki statementların hepsinin False olduğu durumda kendi içindeki boolean değeri True ise içindeki kodu
 # çalıştırır.
 #
 # Program kendinden sonraki diğer statementları kontrol etmez. ardı ardına eklenen if, elif ve else
@@ -32,7 +32,7 @@ def sifirMi(sayi):
 def yasKontrol(yas):
     if yas > 18:
         print("Yaşın 18'ten büyük")
-    elif yas == 18:  # yas < 18 && yas == 18 durumudur.
+    elif yas == 18:  # yas <= 18 && yas == 18 durumudur.
         print("18 yaşındasın")
     else:  # yas < 18 && yas != 18 durumudur.
         print("18 yaşından küçüksün")
