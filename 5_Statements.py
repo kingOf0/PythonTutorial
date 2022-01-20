@@ -23,7 +23,7 @@ def sifirMi(sayi):
 
 
 # Elif Statement
-# Birden önceki statementların hepsinin False olduğu durumda kendi içindeki boolean değeri True ise içindeki kodu
+# Kendisinden önceki statementların hepsinin False olduğu durumda kendi içindeki boolean değeri True ise içindeki kodu
 # çalıştırır.
 #
 # Program kendinden sonraki diğer statementları kontrol etmez. ardı ardına eklenen if, elif ve else
