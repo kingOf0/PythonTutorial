@@ -31,7 +31,7 @@ def sifirMi(sayi):
 #
 def yasKontrol(yas):
     if yas > 18:
-        print("Yaşın 18'ten büyük")
+        print("Yaşın 18'den büyük")
     elif yas == 18:  # yas <= 18 && yas == 18 durumudur.
         print("18 yaşındasın")
     else:  # yas < 18 && yas != 18 durumudur.
