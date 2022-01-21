@@ -8,4 +8,4 @@
 
 
 # Sözlük
-# todo
+# 0_Dictionary.py'de alanın terimlerinin türkçe lokalizasyonuna ulaşabilirsiniz
