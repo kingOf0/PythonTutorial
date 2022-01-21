@@ -17,6 +17,7 @@ y = x + 2  # y'nin değeri 4 olacaktır. Çünkü x'in değeri 2 olduğunda 2 + 
 # Multiplication | Çarpma
 #  İki sayısal değeri çarpar.
 #  10 * 3 => 30
+z = x * y  # x = 2, y = 4 olduğundan z = 8 olacaktır.
 #
 # Division | Bölüm
 #  İki sayısal değeri böler. Dikkat! Bölüm değeri her zaman float (kesirli sayı) türündedir!
