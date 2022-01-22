@@ -28,6 +28,8 @@ z = x * y  # x = 2, y = 4 olduğundan z = 8 olacaktır.
 #  İki sayısal değeri böler. Dikkat! Bölüm değeri her zaman integer (tam sayı) türündedir!
 #  10 / 2 => 5
 #  12 // 5 => 2
+x = z // y + 1  # z = 8, y = 4 olduğundan x = 8 // 5 işlemi gerçelşeşecektir. 8 / 5 = 1.6, fakat tam bölüm veri türünü
+# koruyarak integer / integer'dan integer elde edecek ve 1.6 float'ını integer'a çevirecektir. Yani sonuç 1 dir.
 #
 # Modulus | Modül
 #  Matematikteki 'kalan bulma' operatörüdür.
