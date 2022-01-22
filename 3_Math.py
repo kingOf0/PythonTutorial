@@ -33,7 +33,7 @@ x = z // y + 1  # z = 8, y = 4 olduğundan x = 8 // 5 işlemi gerçelşeşecekti
 #
 # Modulus | Modül
 #  Matematikteki 'kalan bulma' operatörüdür.
-#  11 % 3 => 3
+#  11 % 3 => 2
 #
 # Pow(er) | Kuvvet Alma
 #  2 ** 3 => 8
