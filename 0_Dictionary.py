@@ -8,6 +8,22 @@
 # Dil" denir. C, C++ gibi dillere ise donanıma daha yakın olduğundan "Düşük Seviyeli Dil" denir.
 #
 #
+# IDE | Integrated Development Environment
+# Tümleşik Geliştirme Ortamı
+# todo
+#
+# Bazı ideler: Visual Studio, Visual Studio Code, PyCharm, Intellij, Netbeans, Eclipse, Rider
+#
+# Syntax | Söz Dizimi
+# Dildeki ifadelerin nasıl bir araya getirileceğini anlatan dil kurallarıdır. Her dilin kendine özgü bir synaxı
+# vardır. Program, syntax hatası olduğunda çalıştırılamaz.
+#
+# Örnek syntax hatası aşağıdaki gibidir. Kullandığınız metin düzenleyicisi
+# x = 1
+# if (x = 1): # Eşit mi? koşulu(==) kullanılmak istenirken tek '=' kullanılmış.
+#    print("x, 1'dir.")
+#
+#
 # Opcode
 # Donanımın anlayacağı seviyede düşük bir kod.
 # todo
