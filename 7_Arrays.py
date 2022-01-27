@@ -8,8 +8,8 @@ array = list()
 #
 #
 #
-# Append
+# Append | Ekleme
+# Dizinin sonuna bir eleman ekler
 #
-#
-#
+# todo
 #
