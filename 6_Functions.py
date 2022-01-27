@@ -87,3 +87,16 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 # * todo
 #
 #
+
+
+# len | Uzunluk
+# Paremetre olarak kabul ettiği elemanlara göre farklı işlevleri olan bu "uzunluk" fonksiyonu,
+#
+# todo
+#
+# Stringlerde
+# - stringin içinde kaç harf olduğu #Daha sonra stringlerinde bir liste olduğunu öğreneceğiz
+#
+# Listelerde:
+# - listedeki eleman sayısı
+#
