@@ -87,8 +87,6 @@ print(karesiniAl(2))  # => Ekrana 4 çıktısını verir.
 # * todo
 #
 #
-
-
 # len | Uzunluk
 # Paremetre olarak kabul ettiği elemanlara göre farklı işlevleri olan bu "uzunluk" fonksiyonu,
 #
