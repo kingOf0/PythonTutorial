@@ -43,6 +43,8 @@
 # todo
 #
 #
+#
+#
 # Repl | Read Eval Print Loop
 # Program kodunun okunması, çalıştırılması, oluşan çıktının yazılması durumunun tekrar edilmesidir.
 #
@@ -50,6 +52,6 @@
 #     t e k r a r l a
 #
 #
-# Script | Betik? todo
+# Script | Betik?
+# Kodların yazıldığı .py uzantılı dosyaya denir.
 # todo
-#
