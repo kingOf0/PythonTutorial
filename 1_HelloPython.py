@@ -3,9 +3,9 @@
   Birden fazla satırdan oluşacak yorum satırları üç adet " arasına alınır
   Bu yorum satırları genellikle dökümantasyonlarda kullanılır.
 """
+# Python, Guido van Rossum tarafından geliştirilmeye başlanmıştır. Daha sonra... //todo
 
 # Python dosya formatı '.py' dir.
-
 
 # Sözlük
 # 0_Dictionary.py'de alanın terimlerinin türkçe lokalizasyonuna ulaşabilirsiniz
