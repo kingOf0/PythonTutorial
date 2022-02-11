@@ -4,7 +4,7 @@
 # Araştırma Konusu: Mantıksal Kapılar
 #
 # Bilgisayarlar binary yani ikili sistem ile çalışırlar.
-# Araştırma Konusu: Bilgisayarlar neden binary sistemikullanır?
+# Araştırma Konusu: Bilgisayarlar neden binary sistemi kullanır?
 #
 # Boolean tipinde olan True değeri mantıktaki 1'e eşit iken False, 0'a eşittir.
 # Araştırma Konusu: Üçüncü bir durum var mıdır? bkz: Kuantum Bilgisayarlar
