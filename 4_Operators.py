@@ -12,7 +12,7 @@
 # Aşağıdakı bazı mantıksal operatörler verilmiştir
 #
 # Equality | Eşitlik
-#  x == y"
+#  x == y
 #  x'in hafızadaki adresi ile y'nin hafızadaki adresi aynı ise True diğer tüm durumlarda False değerini verir.
 #
 # And | Ve
