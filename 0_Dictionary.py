@@ -11,6 +11,9 @@
 # IDE | Integrated Development Environment
 # Tümleşik Geliştirme Ortamı
 # todo
+
+
+
 #
 # Bazı ideler: Visual Studio, Visual Studio Code, PyCharm, Intellij, Netbeans, Eclipse, Rider
 #
